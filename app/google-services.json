@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "597655720354",
+    "firebase_url": "https://cashfree-f5acc.firebaseio.com",
+    "project_id": "cashfree-f5acc",
+    "storage_bucket": "cashfree-f5acc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597655720354:android:9c4fff8be49927c76562fb",
+        "android_client_info": {
+          "package_name": "com.worlds.mypaymentcashfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597655720354-7pcdsidi9te19e3jg8it37uedb6dd5ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ6-WvS9B38uelPab_Ko0gZVMuKnD2SDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597655720354-7pcdsidi9te19e3jg8it37uedb6dd5ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
